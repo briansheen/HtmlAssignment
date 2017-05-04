@@ -1,0 +1,30 @@
+div{
+  font-size: large;
+  background-color: #90EE90;
+  height: 50px;
+  width: 300px;
+}
+a{
+  font-size: small;
+  color: #7B68EE;
+  text-decoration: none;
+}
+h1{
+  font-family: monospace;
+}
+input{
+  background-color: midnightblue;
+  border-color: darkblue;
+  color: #90EE90;
+}
+body{
+  background-image: url("http://i161.photobucket.com/albums/t228/spono_photo/hobbessmall.gif");
+  background-size: contain;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+label{
+  display: inline-block;
+  width: 120px;
+  margin-left: 17px;
+}
